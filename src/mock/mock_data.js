@@ -77,6 +77,13 @@ export const mockData = {
           "url": "https://warframe.market/zh-hans/",
           "description": "Warframe非官方交易市场",
           "icon": "https://www.faviconextractor.com/favicon/warframe.market"
+        },
+        {
+          "id": "site-1763886627656",
+          "name": "以撒的结合 灰机维基",
+          "url": "https://isaac.huijiwiki.com/wiki/%E9%A6%96%E9%A1%B5",
+          "description": "以撒的结合 WIKI 中文站",
+          "icon": "https://www.faviconextractor.com/favicon/isaac.huijiwiki.com"
         }
       ]
     },
@@ -211,7 +218,7 @@ export const mockData = {
         {
           "id": "cloudflare",
           "name": "Cloudflare",
-          "url": "https://www.cloudflare.com",
+          "url": "https://dash.cloudflare.com",
           "description": "全球CDN和网络安全服务",
           "icon": "/sitelogo/www.cloudflare.com.ico"
         },
@@ -225,7 +232,7 @@ export const mockData = {
         {
           "id": "site-1763881079587",
           "name": "Namesilo",
-          "url": "https://www.namesilo.com/",
+          "url": "https://www.namesilo.com/account/",
           "description": "域名管理、购买",
           "icon": "https://www.faviconextractor.com/favicon/www.namesilo.com"
         }
