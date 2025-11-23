@@ -30,10 +30,61 @@ export const mockData = {
       ]
     },
     {
+      "id": "entertainment",
+      "name": "视频娱乐",
+      "icon": "📱",
+      "order": 1,
+      "sites": [
+        {
+          "id": "bilibili",
+          "name": "哔哩哔哩",
+          "url": "https://www.bilibili.com",
+          "description": "弹幕视频网站",
+          "icon": "/sitelogo/www.bilibili.com.ico"
+        },
+        {
+          "id": "youtube",
+          "name": "YouTube",
+          "url": "https://www.youtube.com",
+          "description": "视频分享平台",
+          "icon": "/sitelogo/www.youtube.com.ico"
+        }
+      ]
+    },
+    {
+      "id": "category-1763883450290",
+      "icon": "🎮",
+      "name": "游戏网站",
+      "order": 2,
+      "sites": [
+        {
+          "id": "site-1763883479248",
+          "name": "Terraria Wiki",
+          "url": "https://terraria.wiki.gg/zh/wiki/Terraria_Wiki",
+          "description": "Terraria官方WIKI",
+          "icon": "https://www.faviconextractor.com/favicon/terraria.wiki.gg"
+        },
+        {
+          "id": "site-1763883527461",
+          "name": "Warframe 灰机维基",
+          "url": "https://warframe.huijiwiki.com/wiki/Mainpage",
+          "description": "Warframe WIKI 中文站",
+          "icon": "https://www.faviconextractor.com/favicon/warframe.huijiwiki.com"
+        },
+        {
+          "id": "site-1763883610304",
+          "name": "Warframe Market",
+          "url": "https://warframe.market/zh-hans/",
+          "description": "Warframe非官方交易市场",
+          "icon": "https://www.faviconextractor.com/favicon/warframe.market"
+        }
+      ]
+    },
+    {
       "id": "dev-tools",
       "name": "开发工具",
       "icon": "🛠️",
-      "order": 1,
+      "order": 3,
       "sites": [
         {
           "id": "github",
@@ -59,32 +110,10 @@ export const mockData = {
       ]
     },
     {
-      "id": "entertainment",
-      "name": "视频娱乐",
-      "icon": "📱",
-      "order": 2,
-      "sites": [
-        {
-          "id": "bilibili",
-          "name": "哔哩哔哩",
-          "url": "https://www.bilibili.com",
-          "description": "弹幕视频网站",
-          "icon": "/sitelogo/www.bilibili.com.ico"
-        },
-        {
-          "id": "youtube",
-          "name": "YouTube",
-          "url": "https://www.youtube.com",
-          "description": "视频分享平台",
-          "icon": "/sitelogo/www.youtube.com.ico"
-        }
-      ]
-    },
-    {
       "id": "ai-tools",
       "name": "AI智能",
       "icon": "🤖",
-      "order": 3,
+      "order": 4,
       "sites": [
         {
           "id": "site-1763881170644",
@@ -127,7 +156,7 @@ export const mockData = {
       "id": "community",
       "name": "社区论坛",
       "icon": "👥",
-      "order": 4,
+      "order": 5,
       "sites": [
         {
           "id": "stackoverflow",
@@ -142,13 +171,6 @@ export const mockData = {
           "url": "https://linux.do",
           "description": "Linux与开源技术社区",
           "icon": "/sitelogo/linux.do.ico"
-        },
-        {
-          "id": "nodeseek",
-          "name": "NodeSeek",
-          "url": "https://www.nodeseek.com",
-          "description": "极客技术社区",
-          "icon": "/sitelogo/www.nodeseek.com.ico"
         },
         {
           "id": "52pojie",
@@ -184,7 +206,7 @@ export const mockData = {
       "id": "cloud",
       "name": "云服务",
       "icon": "☁️",
-      "order": 5,
+      "order": 6,
       "sites": [
         {
           "id": "cloudflare",
@@ -213,7 +235,7 @@ export const mockData = {
       "id": "category-1763882452860",
       "icon": "🎨",
       "name": "绘画交流",
-      "order": 6,
+      "order": 7,
       "sites": [
         {
           "id": "site-1763882562152",
@@ -242,7 +264,7 @@ export const mockData = {
       "id": "category-1763883160221",
       "icon": "💼",
       "name": "技术学习",
-      "order": 7,
+      "order": 8,
       "sites": [
         {
           "id": "site-1763883218618",
@@ -257,35 +279,6 @@ export const mockData = {
           "url": "https://fs49.org/remake%e7%9a%841-4mod%e6%95%99%e7%a8%8b%e7%9b%ae%e5%bd%95/",
           "description": "原fs49作者发布的Trmod制作教程",
           "icon": "https://www.faviconextractor.com/favicon/fs49.org"
-        }
-      ]
-    },
-    {
-      "id": "category-1763883450290",
-      "icon": "🎮",
-      "name": "游戏网站",
-      "order": 8,
-      "sites": [
-        {
-          "id": "site-1763883479248",
-          "name": "Terraria Wiki",
-          "url": "https://terraria.wiki.gg/zh/wiki/Terraria_Wiki",
-          "description": "Terraria官方WIKI",
-          "icon": "https://www.faviconextractor.com/favicon/terraria.wiki.gg"
-        },
-        {
-          "id": "site-1763883527461",
-          "name": "Warframe 灰机维基",
-          "url": "https://warframe.huijiwiki.com/wiki/Mainpage",
-          "description": "Warframe WIKI 中文站",
-          "icon": "https://www.faviconextractor.com/favicon/warframe.huijiwiki.com"
-        },
-        {
-          "id": "site-1763883610304",
-          "name": "Warframe Market",
-          "url": "https://warframe.market/zh-hans/",
-          "description": "Warframe非官方交易市场",
-          "icon": "https://www.faviconextractor.com/favicon/warframe.market"
         }
       ]
     }
