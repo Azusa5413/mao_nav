@@ -2,44 +2,23 @@ export const mockData = {
   "categories": [
     {
       "id": "my-favorites",
-      "name": "我的常用",
-      "icon": "💥",
+      "name": "个人网站",
+      "icon": "🌐",
       "order": 0,
       "sites": [
         {
-          "id": "site-1752649007053",
-          "name": "BeJson",
-          "url": "https://www.bejson.com/",
-          "description": "工具大全",
-          "icon": "/sitelogo/www.bejson.com.ico"
+          "id": "site-1763880734592",
+          "name": "临时邮箱",
+          "url": "https://mail.azusa5413.top",
+          "description": "个人建立的临时邮箱服务",
+          "icon": "https://www.faviconextractor.com/favicon/mail.azusa5413.top"
         },
         {
-          "id": "linux-do",
-          "name": "Linux.do",
-          "url": "https://linux.do",
-          "description": "Linux技术社区，Peace and Love",
-          "icon": "/sitelogo/linux.do.ico"
-        },
-        {
-          "id": "site-1752857783656",
-          "name": "OpenAI",
-          "url": "https://chatgpt.com",
-          "description": "OpenAI,好用👌",
-          "icon": "/sitelogo/chatgpt.com.ico"
-        },
-        {
-          "id": "github",
-          "name": "GitHub",
-          "url": "https://github.com",
-          "description": "代码托管平台",
-          "icon": "/sitelogo/github.com.ico"
-        },
-        {
-          "id": "curlconverter",
-          "name": "curl converter",
-          "url": "https://curlconverter.com/",
-          "description": "curl命令转换工具",
-          "icon": "/sitelogo/curlconverter.com.ico"
+          "id": "site-1763880806059",
+          "name": "硅基流动API管理",
+          "url": "https://silicon-api.azusa5413.top",
+          "description": "个人搭建的硅基流动API管理站",
+          "icon": "https://www.faviconextractor.com/favicon/silicon-api.azusa5413.top"
         }
       ]
     },
@@ -481,6 +460,5 @@ export const mockData = {
       ]
     }
   ],
-  "title": "猫猫导航🐱",
-  "_fileSha": "8d7abcaecd8cb14b56158b8dad478a98d00c51d5"
+  "title": "猫猫导航🐱"
 }
