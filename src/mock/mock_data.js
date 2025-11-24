@@ -14,13 +14,6 @@ export const mockData = {
           "icon": "https://www.faviconextractor.com/favicon/mail.azusa5413.top"
         },
         {
-          "id": "site-1763880806059",
-          "name": "硅基流动API管理",
-          "url": "https://silicon-api.azusa5413.top",
-          "description": "个人搭建的硅基流动API管理站",
-          "icon": "https://www.faviconextractor.com/favicon/silicon-api.azusa5413.top"
-        },
-        {
           "id": "site-1763882952085",
           "name": "只有我知道的世界",
           "url": "https://gal-web.hisoten.xyz/",
@@ -117,53 +110,10 @@ export const mockData = {
       ]
     },
     {
-      "id": "ai-tools",
-      "name": "AI智能",
-      "icon": "🤖",
-      "order": 4,
-      "sites": [
-        {
-          "id": "site-1763881170644",
-          "name": "DeepSeek",
-          "url": "https://chat.deepseek.com/",
-          "description": "DeepSeek AI助手",
-          "icon": "https://www.faviconextractor.com/favicon/chat.deepseek.com"
-        },
-        {
-          "id": "chatgpt",
-          "name": "ChatGPT",
-          "url": "https://chat.openai.com",
-          "description": "OpenAI对话 AI助手",
-          "icon": "/sitelogo/chat.openai.com.ico"
-        },
-        {
-          "id": "site-1763881255617",
-          "name": "智谱清言",
-          "url": "https://chatglm.cn/main",
-          "description": "智谱清言 AI助手",
-          "icon": "https://www.faviconextractor.com/favicon/chatglm.cn"
-        },
-        {
-          "id": "claude",
-          "name": "Claude",
-          "url": "https://claude.ai",
-          "description": "Anthropic AI助手",
-          "icon": "/sitelogo/claude.ai.ico"
-        },
-        {
-          "id": "cursor",
-          "name": "Cursor",
-          "url": "https://cursor.sh",
-          "description": "AI代码编辑器",
-          "icon": "/sitelogo/cursor.sh.ico"
-        }
-      ]
-    },
-    {
       "id": "community",
       "name": "社区论坛",
       "icon": "👥",
-      "order": 5,
+      "order": 4,
       "sites": [
         {
           "id": "stackoverflow",
@@ -206,6 +156,49 @@ export const mockData = {
           "url": "http://xygalgame.com",
           "description": "Galgame分享站",
           "icon": "https://www.faviconextractor.com/favicon/xygalgame.com"
+        }
+      ]
+    },
+    {
+      "id": "ai-tools",
+      "name": "AI智能",
+      "icon": "🤖",
+      "order": 5,
+      "sites": [
+        {
+          "id": "site-1763881170644",
+          "name": "DeepSeek",
+          "url": "https://chat.deepseek.com/",
+          "description": "DeepSeek AI助手",
+          "icon": "https://www.faviconextractor.com/favicon/chat.deepseek.com"
+        },
+        {
+          "id": "chatgpt",
+          "name": "ChatGPT",
+          "url": "https://chat.openai.com",
+          "description": "OpenAI对话 AI助手",
+          "icon": "/sitelogo/chat.openai.com.ico"
+        },
+        {
+          "id": "site-1763881255617",
+          "name": "智谱清言",
+          "url": "https://chatglm.cn/main",
+          "description": "智谱清言 AI助手",
+          "icon": "https://www.faviconextractor.com/favicon/chatglm.cn"
+        },
+        {
+          "id": "claude",
+          "name": "Claude",
+          "url": "https://claude.ai",
+          "description": "Anthropic AI助手",
+          "icon": "/sitelogo/claude.ai.ico"
+        },
+        {
+          "id": "cursor",
+          "name": "Cursor",
+          "url": "https://cursor.sh",
+          "description": "AI代码编辑器",
+          "icon": "/sitelogo/cursor.sh.ico"
         }
       ]
     },
