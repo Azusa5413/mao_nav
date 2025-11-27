@@ -14,6 +14,13 @@ export const mockData = {
           "icon": "https://www.faviconextractor.com/favicon/mail.azusa5413.top"
         },
         {
+          "id": "site-1764239829554",
+          "name": "个人图床",
+          "url": "https://cloud.azusa5413.top/",
+          "description": "个人建立的图床服务",
+          "icon": "https://www.faviconextractor.com/favicon/cloud.azusa5413.top"
+        },
+        {
           "id": "site-1763882952085",
           "name": "只有我知道的世界",
           "url": "https://gal-web.hisoten.xyz/",
@@ -209,11 +216,11 @@ export const mockData = {
           "icon": "/sitelogo/www.cloudflare.com.ico"
         },
         {
-          "id": "vercel",
-          "name": "Vercel",
-          "url": "https://vercel.com",
-          "description": "前端部署平台",
-          "icon": "/sitelogo/vercel.com.ico"
+          "id": "site-1764239753859",
+          "name": "Backblaze B2",
+          "url": "https://secure.backblaze.com/b2_buckets.htm",
+          "description": "云存储桶管理",
+          "icon": "https://www.faviconextractor.com/favicon/secure.backblaze.com"
         },
         {
           "id": "site-1763881079587",
@@ -221,6 +228,13 @@ export const mockData = {
           "url": "https://www.namesilo.com/account/",
           "description": "域名管理、购买",
           "icon": "https://www.faviconextractor.com/favicon/www.namesilo.com"
+        },
+        {
+          "id": "vercel",
+          "name": "Vercel",
+          "url": "https://vercel.com",
+          "description": "前端部署平台",
+          "icon": "/sitelogo/vercel.com.ico"
         }
       ]
     },
