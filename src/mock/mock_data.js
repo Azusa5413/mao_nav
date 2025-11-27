@@ -149,13 +149,6 @@ export const mockData = {
           "url": "http://itch.io",
           "description": "独立游戏平台",
           "icon": "https://www.faviconextractor.com/favicon/itch.io"
-        },
-        {
-          "id": "site-1763883418741",
-          "name": "初音的青葱",
-          "url": "http://xygalgame.com",
-          "description": "Galgame分享站",
-          "icon": "https://www.faviconextractor.com/favicon/xygalgame.com"
         }
       ]
     },
