@@ -19,13 +19,6 @@ export const mockData = {
           "url": "https://cloud.azusa5413.top/",
           "description": "个人建立的图床服务",
           "icon": "https://www.faviconextractor.com/favicon/cloud.azusa5413.top"
-        },
-        {
-          "id": "site-1763882952085",
-          "name": "只有我知道的世界",
-          "url": "https://gal-web.hisoten.xyz/",
-          "description": "群友自建Gal答题网站",
-          "icon": "https://www.faviconextractor.com/favicon/gal-web.hisoten.xyz"
         }
       ]
     },
@@ -117,10 +110,60 @@ export const mockData = {
       ]
     },
     {
+      "id": "cloud",
+      "name": "云服务",
+      "icon": "☁️",
+      "order": 4,
+      "sites": [
+        {
+          "id": "cloudflare",
+          "name": "Cloudflare",
+          "url": "https://dash.cloudflare.com",
+          "description": "全球CDN和网络安全服务",
+          "icon": "/sitelogo/www.cloudflare.com.ico"
+        },
+        {
+          "id": "site-1764239753859",
+          "name": "Backblaze B2",
+          "url": "https://secure.backblaze.com/b2_buckets.htm",
+          "description": "云存储桶管理",
+          "icon": "https://www.faviconextractor.com/favicon/secure.backblaze.com"
+        },
+        {
+          "id": "site-1763881079587",
+          "name": "Namesilo",
+          "url": "https://www.namesilo.com/account/",
+          "description": "域名管理、购买",
+          "icon": "https://www.faviconextractor.com/favicon/www.namesilo.com"
+        },
+        {
+          "id": "vercel",
+          "name": "Vercel",
+          "url": "https://vercel.com",
+          "description": "前端部署平台",
+          "icon": "/sitelogo/vercel.com.ico"
+        },
+        {
+          "id": "site-1769181158091",
+          "name": "CloudCone",
+          "url": "https://app.cloudcone.com/cloud",
+          "description": "云服务器供应商",
+          "icon": "https://www.faviconextractor.com/favicon/app.cloudcone.com"
+        },
+        {
+          "id": "site-1769181292296",
+          "name": "Zeabur",
+          "url": "https://zeabur.com/zh-CN",
+          "description": "项目部署平台",
+          "icon": "https://www.faviconextractor.com/favicon/zeabur.com"
+        }
+      ]
+    },
+    {
       "id": "community",
       "name": "社区论坛",
       "icon": "👥",
-      "order": 4,
+      "order": 5,
       "sites": [
         {
           "id": "stackoverflow",
@@ -163,8 +206,15 @@ export const mockData = {
       "id": "ai-tools",
       "name": "AI智能",
       "icon": "🤖",
-      "order": 5,
+      "order": 6,
       "sites": [
+        {
+          "id": "site-1769181210768",
+          "name": "Gemini",
+          "url": "https://gemini.google.com/app",
+          "description": "Gemini AI助手",
+          "icon": "https://www.faviconextractor.com/favicon/gemini.google.com"
+        },
         {
           "id": "site-1763881170644",
           "name": "DeepSeek",
@@ -199,42 +249,6 @@ export const mockData = {
           "url": "https://cursor.sh",
           "description": "AI代码编辑器",
           "icon": "/sitelogo/cursor.sh.ico"
-        }
-      ]
-    },
-    {
-      "id": "cloud",
-      "name": "云服务",
-      "icon": "☁️",
-      "order": 6,
-      "sites": [
-        {
-          "id": "cloudflare",
-          "name": "Cloudflare",
-          "url": "https://dash.cloudflare.com",
-          "description": "全球CDN和网络安全服务",
-          "icon": "/sitelogo/www.cloudflare.com.ico"
-        },
-        {
-          "id": "site-1764239753859",
-          "name": "Backblaze B2",
-          "url": "https://secure.backblaze.com/b2_buckets.htm",
-          "description": "云存储桶管理",
-          "icon": "https://www.faviconextractor.com/favicon/secure.backblaze.com"
-        },
-        {
-          "id": "site-1763881079587",
-          "name": "Namesilo",
-          "url": "https://www.namesilo.com/account/",
-          "description": "域名管理、购买",
-          "icon": "https://www.faviconextractor.com/favicon/www.namesilo.com"
-        },
-        {
-          "id": "vercel",
-          "name": "Vercel",
-          "url": "https://vercel.com",
-          "description": "前端部署平台",
-          "icon": "/sitelogo/vercel.com.ico"
         }
       ]
     },
