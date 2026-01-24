@@ -19,6 +19,13 @@ export const mockData = {
           "url": "https://cloud.azusa5413.top/",
           "description": "个人建立的图床服务",
           "icon": "https://www.faviconextractor.com/favicon/cloud.azusa5413.top"
+        },
+        {
+          "id": "site-1769225949526",
+          "name": "SillyTavern",
+          "url": "https://sillytavern.azusa5413.top/",
+          "description": "个人建立的云酒馆",
+          "icon": "https://avatars.githubusercontent.com/u/134869877"
         }
       ]
     },
