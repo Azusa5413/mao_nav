@@ -21,9 +21,9 @@ export const mockData = {
           "icon": "https://www.faviconextractor.com/favicon/cloud.azusa5413.top"
         },
         {
-          "id": "site-1769225949526",
+          "id": "site-1769226086056",
           "name": "SillyTavern",
-          "url": "https://sillytavern.azusa5413.top/",
+          "url": "https://sillytavern.azusa5413.top",
           "description": "个人建立的云酒馆",
           "icon": "https://avatars.githubusercontent.com/u/134869877"
         }
