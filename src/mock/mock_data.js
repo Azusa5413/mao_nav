@@ -25,7 +25,7 @@ export const mockData = {
           "name": "SillyTavern",
           "url": "https://sillytavern.azusa5413.top",
           "description": "个人建立的云酒馆",
-          "icon": "https://avatars.githubusercontent.com/u/134869877"
+          "icon": ""
         }
       ]
     },
