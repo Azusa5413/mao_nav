@@ -137,20 +137,6 @@ export const mockData = {
           "icon": "https://www.faviconextractor.com/favicon/secure.backblaze.com"
         },
         {
-          "id": "site-1763881079587",
-          "name": "Namesilo",
-          "url": "https://www.namesilo.com/account/",
-          "description": "域名管理、购买",
-          "icon": "https://www.faviconextractor.com/favicon/www.namesilo.com"
-        },
-        {
-          "id": "vercel",
-          "name": "Vercel",
-          "url": "https://vercel.com",
-          "description": "前端部署平台",
-          "icon": "/sitelogo/vercel.com.ico"
-        },
-        {
           "id": "site-1769181158091",
           "name": "CloudCone",
           "url": "https://app.cloudcone.com/cloud",
@@ -158,11 +144,32 @@ export const mockData = {
           "icon": "https://www.faviconextractor.com/favicon/app.cloudcone.com"
         },
         {
+          "id": "site-1769420933033",
+          "name": "ZgoCloud",
+          "url": "https://clients.zgovps.com/",
+          "description": "云服务器供应商",
+          "icon": "https://www.faviconextractor.com/favicon/clients.zgovps.com"
+        },
+        {
+          "id": "site-1763881079587",
+          "name": "Namesilo",
+          "url": "https://www.namesilo.com/account/",
+          "description": "域名管理、购买",
+          "icon": "https://www.faviconextractor.com/favicon/www.namesilo.com"
+        },
+        {
           "id": "site-1769181292296",
           "name": "Zeabur",
           "url": "https://zeabur.com/zh-CN",
           "description": "项目部署平台",
           "icon": "https://www.faviconextractor.com/favicon/zeabur.com"
+        },
+        {
+          "id": "vercel",
+          "name": "Vercel",
+          "url": "https://vercel.com",
+          "description": "前端部署平台",
+          "icon": "/sitelogo/vercel.com.ico"
         }
       ]
     },
