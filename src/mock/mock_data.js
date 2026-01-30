@@ -52,67 +52,52 @@ export const mockData = {
       ]
     },
     {
-      "id": "category-1763883450290",
-      "icon": "🎮",
-      "name": "游戏网站",
+      "id": "community",
+      "name": "社区论坛",
+      "icon": "👥",
       "order": 2,
       "sites": [
         {
-          "id": "site-1763883479248",
-          "name": "Terraria Wiki",
-          "url": "https://terraria.wiki.gg/zh/wiki/Terraria_Wiki",
-          "description": "Terraria官方WIKI",
-          "icon": "https://www.faviconextractor.com/favicon/terraria.wiki.gg"
+          "id": "site-1769747839232",
+          "name": "Discord",
+          "url": "https://discord.com/channels/@me",
+          "description": "游戏交流社区",
+          "icon": "https://www.faviconextractor.com/favicon/discord.com"
         },
         {
-          "id": "site-1763883527461",
-          "name": "Warframe 灰机维基",
-          "url": "https://warframe.huijiwiki.com/wiki/Mainpage",
-          "description": "Warframe WIKI 中文站",
-          "icon": "https://www.faviconextractor.com/favicon/warframe.huijiwiki.com"
+          "id": "stackoverflow",
+          "name": "Stack Overflow",
+          "url": "https://stackoverflow.com",
+          "description": "程序员问答社区",
+          "icon": "/sitelogo/stackoverflow.com.ico"
         },
         {
-          "id": "site-1763883610304",
-          "name": "Warframe Market",
-          "url": "https://warframe.market/zh-hans/",
-          "description": "Warframe非官方交易市场",
-          "icon": "https://www.faviconextractor.com/favicon/warframe.market"
+          "id": "linuxdo",
+          "name": "Linux.do",
+          "url": "https://linux.do",
+          "description": "Linux与开源技术社区",
+          "icon": "/sitelogo/linux.do.ico"
         },
         {
-          "id": "site-1763886627656",
-          "name": "以撒的结合 灰机维基",
-          "url": "https://isaac.huijiwiki.com/wiki/%E9%A6%96%E9%A1%B5",
-          "description": "以撒的结合 WIKI 中文站",
-          "icon": "https://www.faviconextractor.com/favicon/isaac.huijiwiki.com"
-        }
-      ]
-    },
-    {
-      "id": "dev-tools",
-      "name": "开发工具",
-      "icon": "🛠️",
-      "order": 3,
-      "sites": [
-        {
-          "id": "github",
-          "name": "GitHub",
-          "url": "https://github.com",
-          "description": "代码托管平台",
-          "icon": "/sitelogo/github.com.ico"
+          "id": "52pojie",
+          "name": "吾爱破解",
+          "url": "https://www.52pojie.cn/",
+          "description": "软件安全与破解技术论坛",
+          "icon": "/sitelogo/www.52pojie.cn.ico"
         },
         {
-          "id": "vscode",
-          "name": "VS Code",
-          "url": "https://code.visualstudio.com",
-          "description": "代码编辑器",
-          "icon": "/sitelogo/code.visualstudio.com.ico"
+          "id": "site-1763882756141",
+          "name": "NGA",
+          "url": "https://nga.cn/",
+          "description": "精英游戏论坛",
+          "icon": "https://www.faviconextractor.com/favicon/nga.cn"
         },
         {
-          "id": "webstorm",
-          "name": "WebStorm",
-          "url": "https://www.jetbrains.com/webstorm/",
-          "description": "专业前端IDE",
-          "icon": "/sitelogo/www.jetbrains.com.ico"
+          "id": "site-1763882859776",
+          "name": "Itch Io",
+          "url": "http://itch.io",
+          "description": "独立游戏平台",
+          "icon": "https://www.faviconextractor.com/favicon/itch.io"
         }
       ]
     },
@@ -120,7 +105,7 @@ export const mockData = {
       "id": "cloud",
       "name": "云服务",
       "icon": "☁️",
-      "order": 4,
+      "order": 3,
       "sites": [
         {
           "id": "cloudflare",
@@ -174,45 +159,67 @@ export const mockData = {
       ]
     },
     {
-      "id": "community",
-      "name": "社区论坛",
-      "icon": "👥",
+      "id": "category-1763883450290",
+      "icon": "🎮",
+      "name": "游戏网站",
+      "order": 4,
+      "sites": [
+        {
+          "id": "site-1763883479248",
+          "name": "Terraria Wiki",
+          "url": "https://terraria.wiki.gg/zh/wiki/Terraria_Wiki",
+          "description": "Terraria官方WIKI",
+          "icon": "https://www.faviconextractor.com/favicon/terraria.wiki.gg"
+        },
+        {
+          "id": "site-1763883527461",
+          "name": "Warframe 灰机维基",
+          "url": "https://warframe.huijiwiki.com/wiki/Mainpage",
+          "description": "Warframe WIKI 中文站",
+          "icon": "https://www.faviconextractor.com/favicon/warframe.huijiwiki.com"
+        },
+        {
+          "id": "site-1763883610304",
+          "name": "Warframe Market",
+          "url": "https://warframe.market/zh-hans/",
+          "description": "Warframe非官方交易市场",
+          "icon": "https://www.faviconextractor.com/favicon/warframe.market"
+        },
+        {
+          "id": "site-1763886627656",
+          "name": "以撒的结合 灰机维基",
+          "url": "https://isaac.huijiwiki.com/wiki/%E9%A6%96%E9%A1%B5",
+          "description": "以撒的结合 WIKI 中文站",
+          "icon": "https://www.faviconextractor.com/favicon/isaac.huijiwiki.com"
+        }
+      ]
+    },
+    {
+      "id": "dev-tools",
+      "name": "开发工具",
+      "icon": "🛠️",
       "order": 5,
       "sites": [
         {
-          "id": "stackoverflow",
-          "name": "Stack Overflow",
-          "url": "https://stackoverflow.com",
-          "description": "程序员问答社区",
-          "icon": "/sitelogo/stackoverflow.com.ico"
+          "id": "github",
+          "name": "GitHub",
+          "url": "https://github.com",
+          "description": "代码托管平台",
+          "icon": "/sitelogo/github.com.ico"
         },
         {
-          "id": "linuxdo",
-          "name": "Linux.do",
-          "url": "https://linux.do",
-          "description": "Linux与开源技术社区",
-          "icon": "/sitelogo/linux.do.ico"
+          "id": "vscode",
+          "name": "VS Code",
+          "url": "https://code.visualstudio.com",
+          "description": "代码编辑器",
+          "icon": "/sitelogo/code.visualstudio.com.ico"
         },
         {
-          "id": "52pojie",
-          "name": "吾爱破解",
-          "url": "https://www.52pojie.cn/",
-          "description": "软件安全与破解技术论坛",
-          "icon": "/sitelogo/www.52pojie.cn.ico"
-        },
-        {
-          "id": "site-1763882756141",
-          "name": "NGA",
-          "url": "https://nga.cn/",
-          "description": "精英游戏论坛",
-          "icon": "https://www.faviconextractor.com/favicon/nga.cn"
-        },
-        {
-          "id": "site-1763882859776",
-          "name": "Itch Io",
-          "url": "http://itch.io",
-          "description": "独立游戏平台",
-          "icon": "https://www.faviconextractor.com/favicon/itch.io"
+          "id": "webstorm",
+          "name": "WebStorm",
+          "url": "https://www.jetbrains.com/webstorm/",
+          "description": "专业前端IDE",
+          "icon": "/sitelogo/www.jetbrains.com.ico"
         }
       ]
     },
