@@ -11,7 +11,7 @@ export const mockData = {
           "name": "临时邮箱",
           "url": "https://tempmail.azusa5413.top",
           "description": "个人建立的临时邮箱服务",
-          "icon": "https://www.faviconextractor.com/favicon/mail.azusa5413.top"
+          "icon": "https://www.faviconextractor.com/favicon/tempmail.azusa5413.top"
         },
         {
           "id": "site-1764239829554",
