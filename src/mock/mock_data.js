@@ -258,13 +258,6 @@ export const mockData = {
           "icon": "/sitelogo/chat.openai.com.ico"
         },
         {
-          "id": "site-1763881255617",
-          "name": "智谱清言",
-          "url": "https://chatglm.cn/main",
-          "description": "智谱清言 AI助手",
-          "icon": "https://www.faviconextractor.com/favicon/chatglm.cn"
-        },
-        {
           "id": "claude",
           "name": "Claude",
           "url": "https://claude.ai",
@@ -333,5 +326,5 @@ export const mockData = {
     }
   ],
   "title": "Azusa的导航站",
-  "_fileSha": "a4848eca15edfc63f9e28fd27451ad0f12acdc39"
+  "search": "bing"
 }
