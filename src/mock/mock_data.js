@@ -25,7 +25,7 @@ export const mockData = {
           "name": "TavernRegister",
           "url": "https://register.azusa5413.top",
           "description": "个人云酒馆的自助注册门户",
-          "icon": ""
+          "icon": "https://cloud.azusa5413.top/file/img/1771066769974_TavernLauncher.png"
         }
       ]
     },
