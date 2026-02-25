@@ -183,7 +183,7 @@ export const mockData = {
           "name": "Warframe Market",
           "url": "https://warframe.market/zh-hans/",
           "description": "Warframe非官方交易市场",
-          "icon": "https://www.faviconextractor.com/favicon/warframe.market"
+          "icon": "https://favicon.im/warframe.market"
         },
         {
           "id": "site-1763886627656",
