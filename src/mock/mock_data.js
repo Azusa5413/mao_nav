@@ -133,7 +133,7 @@ export const mockData = {
           "name": "Namesilo",
           "url": "https://www.namesilo.com/account/",
           "description": "域名管理、购买",
-          "icon": "https://www.faviconextractor.com/favicon/www.namesilo.com"
+          "icon": "https://favicon.im/www.namesilo.com?larger=true"
         },
         {
           "id": "site-1764239753859",
