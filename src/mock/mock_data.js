@@ -84,13 +84,6 @@ export const mockData = {
           "url": "https://www.52pojie.cn/",
           "description": "软件安全与破解技术论坛",
           "icon": "/sitelogo/www.52pojie.cn.ico"
-        },
-        {
-          "id": "site-1763882756141",
-          "name": "NGA",
-          "url": "https://nga.cn",
-          "description": "精英游戏论坛",
-          "icon": "https://www.faviconextractor.com/favicon/nga.cn"
         }
       ]
     },
