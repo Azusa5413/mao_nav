@@ -284,14 +284,14 @@ export const mockData = {
           "name": "Hugging Face",
           "url": "https://huggingface.co/",
           "description": "AI绘画模型及技术分享",
-          "icon": "https://www.faviconextractor.com/favicon/huggingface.co"
+          "icon": "https://favicon.im/huggingface.co"
         },
         {
           "id": "site-1763883089999",
           "name": "Pixiv",
           "url": "http://www.pixiv.net",
           "description": "绘画交流分享平台",
-          "icon": "https://www.faviconextractor.com/favicon/www.pixiv.net"
+          "icon": "https://favicon.im/www.pixiv.net?larger=true"
         }
       ]
     },
