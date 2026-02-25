@@ -313,7 +313,7 @@ export const mockData = {
           "name": "Godot中文文档",
           "url": "https://docs.godotengine.org/zh-cn/4.x/about/introduction.html",
           "description": "Godot官方4.x版本中文文档",
-          "icon": "https://www.faviconextractor.com/favicon/docs.godotengine.org"
+          "icon": "https://favicon.im/docs.godotengine.org?larger=true"
         },
         {
           "id": "site-1763883339311",
