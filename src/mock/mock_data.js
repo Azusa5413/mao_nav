@@ -88,16 +88,9 @@ export const mockData = {
         {
           "id": "site-1763882756141",
           "name": "NGA",
-          "url": "https://nga.cn/",
+          "url": "https://nga.cn",
           "description": "精英游戏论坛",
           "icon": "https://www.faviconextractor.com/favicon/nga.cn"
-        },
-        {
-          "id": "site-1763882859776",
-          "name": "Itch Io",
-          "url": "http://itch.io",
-          "description": "独立游戏平台",
-          "icon": "https://www.faviconextractor.com/favicon/itch.io"
         }
       ]
     },
