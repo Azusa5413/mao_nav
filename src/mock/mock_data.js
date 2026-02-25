@@ -320,7 +320,7 @@ export const mockData = {
           "name": "Terraria 1.4.x 教程目录",
           "url": "https://fs49.org/remake%e7%9a%841-4mod%e6%95%99%e7%a8%8b%e7%9b%ae%e5%bd%95/",
           "description": "原fs49作者发布的Trmod制作教程",
-          "icon": "https://www.faviconextractor.com/favicon/fs49.org"
+          "icon": "https://favicon.im/fs49.org?larger=true"
         }
       ]
     }
