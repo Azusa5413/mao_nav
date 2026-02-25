@@ -227,14 +227,14 @@ export const mockData = {
           "name": "Gemini",
           "url": "https://gemini.google.com/app",
           "description": "Gemini AI助手",
-          "icon": "https://www.faviconextractor.com/favicon/gemini.google.com"
+          "icon": "https://www.faviconextractor.com/favicon/gemini.google.com?larger=true"
         },
         {
           "id": "site-1763881170644",
           "name": "DeepSeek",
           "url": "https://chat.deepseek.com/",
           "description": "DeepSeek AI助手",
-          "icon": "https://www.faviconextractor.com/favicon/chat.deepseek.com"
+          "icon": "https://favicon.im/chat.deepseek.com"
         },
         {
           "id": "chatgpt",
