@@ -112,14 +112,14 @@ export const mockData = {
           "name": "CloudCone",
           "url": "https://app.cloudcone.com/cloud",
           "description": "云服务器供应商",
-          "icon": "https://www.faviconextractor.com/favicon/app.cloudcone.com"
+          "icon": "https://favicon.im//app.cloudcone.com"
         },
         {
           "id": "site-1769420933033",
           "name": "ZgoCloud",
           "url": "https://clients.zgovps.com/",
           "description": "云服务器供应商",
-          "icon": "https://www.faviconextractor.com/favicon/clients.zgovps.com"
+          "icon": "https://favicon.im//clients.zgovps.com"
         },
         {
           "id": "site-1763881079587",
@@ -133,14 +133,14 @@ export const mockData = {
           "name": "Backblaze B2",
           "url": "https://secure.backblaze.com/b2_buckets.htm",
           "description": "云存储桶管理",
-          "icon": "https://www.faviconextractor.com/favicon/secure.backblaze.com"
+          "icon": "https://favicon.im///secure.backblaze.com"
         },
         {
           "id": "site-1769181292296",
           "name": "Zeabur",
           "url": "https://zeabur.com/zh-CN",
           "description": "项目部署平台",
-          "icon": "https://www.faviconextractor.com/favicon/zeabur.com"
+          "icon": "https://favicon.im///zeabur.com"
         },
         {
           "id": "vercel",
