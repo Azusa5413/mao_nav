@@ -11,14 +11,14 @@ export const mockData = {
           "name": "个人邮局",
           "url": "https://mail.azusa5413.top",
           "description": "个人建立的邮局服务",
-          "icon": "https://www.faviconextractor.com/favicon/mail.azusa5413.top"
+          "icon": "https://favicon.im//mail.azusa5413.top"
         },
         {
           "id": "site-1764239829554",
           "name": "个人图床",
           "url": "https://cloud.azusa5413.top",
           "description": "个人建立的图床服务",
-          "icon": "https://www.faviconextractor.com/favicon/cloud.azusa5413.top"
+          "icon": "https://favicon.im///cloud.azusa5413.top"
         },
         {
           "id": "site-1769226086056",
@@ -62,7 +62,7 @@ export const mockData = {
           "name": "Discord",
           "url": "https://discord.com/channels/@me",
           "description": "游戏交流社区",
-          "icon": "https://www.faviconextractor.com/favicon/discord.com"
+          "icon": "https://favicon.im///discord.com"
         },
         {
           "id": "stackoverflow",
@@ -162,14 +162,14 @@ export const mockData = {
           "name": "Terraria Wiki",
           "url": "https://terraria.wiki.gg/zh/wiki/Terraria_Wiki",
           "description": "Terraria官方WIKI",
-          "icon": "https://www.faviconextractor.com/favicon/terraria.wiki.gg"
+          "icon": "https://favicon.im///terraria.wiki.gg"
         },
         {
           "id": "site-1763883527461",
           "name": "Warframe 灰机维基",
           "url": "https://warframe.huijiwiki.com/wiki/Mainpage",
           "description": "Warframe WIKI 中文站",
-          "icon": "https://www.faviconextractor.com/favicon/warframe.huijiwiki.com"
+          "icon": "https://favicon.im//warframe.huijiwiki.com"
         },
         {
           "id": "site-1763883610304",
@@ -183,7 +183,7 @@ export const mockData = {
           "name": "以撒的结合 灰机维基",
           "url": "https://isaac.huijiwiki.com/wiki/%E9%A6%96%E9%A1%B5",
           "description": "以撒的结合 WIKI 中文站",
-          "icon": "https://www.faviconextractor.com/favicon/isaac.huijiwiki.com"
+          "icon": "https://favicon.im//isaac.huijiwiki.com"
         }
       ]
     },
@@ -227,7 +227,7 @@ export const mockData = {
           "name": "Gemini",
           "url": "https://gemini.google.com/app",
           "description": "Gemini AI助手",
-          "icon": "https://www.faviconextractor.com/favicon/gemini.google.com?larger=true"
+          "icon": "https://favicon.im//google.com"
         },
         {
           "id": "site-1763881170644",
@@ -270,7 +270,7 @@ export const mockData = {
           "name": "Civitai",
           "url": "https://civitai.com/",
           "description": "AI绘画模型站",
-          "icon": "https://www.faviconextractor.com/favicon/civitai.com"
+          "icon": "https://favicon.im//civitai.com"
         },
         {
           "id": "site-1763882621780",
