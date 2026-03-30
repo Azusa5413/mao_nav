@@ -105,7 +105,7 @@ export const mockData = {
           "name": "RackNerd",
           "url": "https://my.racknerd.com/clientarea.php?action=services&language=chinese",
           "description": "云服务器供应商",
-          "icon": "https://www.faviconextractor.com/favicon/my.racknerd.com"
+          "icon": "https://favicon.im//my.racknerd.com"
         },
         {
           "id": "site-1769181158091",
