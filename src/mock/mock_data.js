@@ -234,7 +234,7 @@ export const mockData = {
           "name": "DeepSeek",
           "url": "https://chat.deepseek.com/",
           "description": "DeepSeek AI助手",
-          "icon": "https://favicon.im/chat.deepseek.com"
+          "icon": "https://favicon.im//chat.deepseek.com?larger=true"
         },
         {
           "id": "chatgpt",
