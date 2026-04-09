@@ -9,9 +9,9 @@ export const mockData = {
         {
           "id": "site-1763880734592",
           "name": "个人邮局",
-          "url": "https://mail.azusa5413.top",
+          "url": "https://alle.azusa5413.top",
           "description": "个人建立的邮局服务",
-          "icon": "https://favicon.im//mail.azusa5413.top"
+          "icon": "https://favicon.im//alle.azusa5413.top"
         },
         {
           "id": "site-1764239829554",
