@@ -7,13 +7,6 @@ export const mockData = {
       "order": 0,
       "sites": [
         {
-          "id": "site-1763880734592",
-          "name": "个人邮局",
-          "url": "https://alle.azusa5413.top",
-          "description": "个人建立的邮局服务",
-          "icon": "https://favicon.im//alle.azusa5413.top"
-        },
-        {
           "id": "site-1764239829554",
           "name": "个人图床",
           "url": "https://cloud.azusa5413.top",
