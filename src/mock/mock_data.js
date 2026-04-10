@@ -12,13 +12,6 @@ export const mockData = {
           "url": "https://cloud.azusa5413.top",
           "description": "个人建立的图床服务",
           "icon": "https://favicon.im///cloud.azusa5413.top"
-        },
-        {
-          "id": "site-1769226086056",
-          "name": "TavernRegister",
-          "url": "https://register.azusa5413.top",
-          "description": "个人云酒馆的自助注册门户",
-          "icon": "https://cloud.azusa5413.top/file/img/1771066769974_TavernLauncher.png"
         }
       ]
     },
